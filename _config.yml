@@ -1,0 +1,19 @@
+title: "LabDS"
+email: "your_email@ntu.edu.sg"
+description: "Exploring advanced catalysis, operando spectroscopy, and the physical properties of matter."
+author: "DS"
+theme: jekyll-theme-minimal
+
+# Navigation Menu
+header_pages:
+  - index.md
+  - people.md
+  - research.md
+  - publications.md
+  - lab-activity.md
+  - resources.md
+
+# Social Media (optional)
+github_username: yourusername
+linkedin_username:
+google_scholar_id:
