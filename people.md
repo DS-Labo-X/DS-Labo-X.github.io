@@ -1,5 +1,6 @@
 # Our Team
-
+<div class="person-card">
+  <img src="assets/people/deng.jpg" alt="DENG Xiaohui" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
 **Dr. WU Dongshuang**  
 Assistant Professor, NTU  
 Research interests: Catalysis, Advanced Characterisation, and Materials Chemistry.  
@@ -8,11 +9,13 @@ Research interests: Catalysis, Advanced Characterisation, and Materials Chemistr
 
 ---
 ## DS Fellow
+<div class="person-card">
+  <img src="assets/people/deng.jpg" alt="DENG Xiaohui" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
 **Dr. LI Haobo**  
--Assistant Professor, NTU  
--Research interests: AI, DFT.  
--Contact: haobo.li@ntu.edu.sg  
--Website: https://haobo-li.com/
+Assistant Professor, NTU  
+Research interests: AI, DFT.  
+**Contact:** haobo.li@ntu.edu.sg  
+**Group Website:** https://haobo-li.com/
 
 ---
 ## Postdoctoral Researchers
@@ -39,17 +42,66 @@ Research interests: Catalysis, Advanced Characterisation, and Materials Chemistr
 
 ---
 ## Postdoctoral Researchers
-- **Dr. DENG Xiaohui** – Electrocatalysis.
-- **Contact:** xiaohui.deng@ntu.edu.sg
-- **Dr. GU Huayu** – Thermal Catalysis and modelling.
-- **Contact:** huayu.gu@ntu.edu.sg
-- **Dr. ZAN Yifan** – Biomass conversion.
-- **Contact:** yifan.zan@ntu.edu.sg
+
 - 
 ## PhD Students
-- **Student 1** – Liquid metal catalysts.
-- **Student 2** – Biomass to chemicals.
-- **Student 3** – Advanced operando spectroscopy.
+<div class="person-card">
+  <img src="assets/people/zan.jpg" alt="ZAN Yifan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>WANG Yuanyuan (Aug 2022-)</strong><br>
+  Liquid metals nanoparticles and its physical properties<br>
+  <em>YUANYUAN004@e.ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <img src="assets/people/zan.jpg" alt="ZAN Yifan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>XU Yifan (2023 Jan-)</strong><br>
+  Metal Alloys for electrocatalysis<br>
+  <em>YIFAN004@e.ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <img src="assets/people/zan.jpg" alt="ZAN Yifan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>ZHU Bing (2023 Aug-)</strong><br>
+  High-entropy alloys for thermal catalysis<br>
+  <em>ZHUB0012@e.ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <img src="assets/people/zan.jpg" alt="ZAN Yifan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>KIM Minji (2024 Jan)</strong><br>
+  Supported Catalysts for Water Splitting<br>
+  <em>KIMM0006@e.ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <img src="assets/people/zan.jpg" alt="ZAN Yifan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>TOH Ziyang (2024 Aug-)</strong><br>
+  Supported Catalysts for CO2 Hydrogenation<br>
+  <em>ZIYANG009@e.ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <img src="assets/people/zan.jpg" alt="ZAN Yifan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>ZHANG Weijie (2024 Aug-)</strong><br>
+ Heterogenouse Catalysts for Organic molecules synthesis<br>
+  <em>WEIJIE003@e.ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <img src="assets/people/zan.jpg" alt="ZAN Yifan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>ZHAO Wenting (2025 Aug-)</strong><br>
+ Liquid Metal-based catalysts<br>
+  <em>M220168@e.ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <img src="assets/people/zan.jpg" alt="ZAN Yifan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>HUANG Qiqi (2025 Aug)</strong><br>
+  TBD<br>
+  <em>QHUANG025@e.ntu.edu.sg</em>
+</div>
+
+
 
 ---
 
