@@ -2,16 +2,17 @@
 
 ## Principal Investigator
 **Dr. WU Dongshuang**  
-Assistant Professor, NTU  
-Research interests: Catalysis, Advanced Characterisation, and Materials Chemistry.
+-Assistant Professor, NTU  
+-Research interests: Catalysis, Advanced Characterisation, and Materials Chemistry.
+-Contact: dongshuang.wu@ntu.edu.sg
 
 ---
 ## DS Fellow
 **Dr. LI Haobo**  
-Assistant Professor, NTU  
-Research interests: AI, DFT.
-Contact: haobo.li@ntu.edu.sg
-Website: https://haobo-li.com/
+-Assistant Professor, NTU  
+-Research interests: AI, DFT.
+-Contact: haobo.li@ntu.edu.sg
+-Website: https://haobo-li.com/
 
 ---
 ## Postdoctoral Researchers
