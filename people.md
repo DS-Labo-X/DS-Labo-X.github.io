@@ -99,7 +99,19 @@ Research interests: AI, DFT.
   <em>QHUANG025@e.ntu.edu.sg</em>
 </div>
 
+<div class="person-card">
+  <img src="assets/people/zan.jpg" alt="HUANG Qiqi" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>ZOU Aiji (Co-supervised with Prof Dong Zhili)</strong><br>
+  TBD<br>
+  <em>AIJI001@e.ntu.edu.sg</em>
+</div>
 
+<div class="person-card">
+  <img src="assets/people/zan.jpg" alt="HUANG Qiqi" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>YI Zhehan (Co-supervised with Prof Fan Hongjin)</strong><br>
+  TBD<br>
+  <em>ZHEHAN002@e.ntu.edu.sg</em>
+</div>
 
 ---
 
