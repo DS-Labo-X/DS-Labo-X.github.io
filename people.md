@@ -1,9 +1,10 @@
 # Our Team
 
-## Principal Investigator
 **Dr. WU Dongshuang**  
--Assistant Professor, NTU  
--Research interests: Catalysis, Advanced Characterisation, and Materials Chemistry.  -Contact: dongshuang.wu@ntu.edu.sg
+Assistant Professor, NTU  
+Research interests: Catalysis, Advanced Characterisation, and Materials Chemistry.  
+**Contact:** dongshuang.wu@ntu.edu.sg
+
 
 ---
 ## DS Fellow
