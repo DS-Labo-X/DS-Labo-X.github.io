@@ -14,6 +14,25 @@ Research interests: Catalysis, Advanced Characterisation, and Materials Chemistr
 -Contact: haobo.li@ntu.edu.sg  
 -Website: https://haobo-li.com/
 
+
+<div class="person-card">
+  <strong>Dr. DENG Xiaohui</strong><br>
+  Electrocatalysis<br>
+  <em>xiaohui.deng@ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <strong>Dr. GU Huayu</strong><br>
+  Thermal Catalysis and Modelling<br>
+  <em>huayu.gu@ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <strong>Dr. ZAN Yifan</strong><br>
+  Biomass Conversion<br>
+  <em>yifan.zan@ntu.edu.sg</em>
+</div>
+
 ---
 ## Postdoctoral Researchers
 - **Dr. DENG Xiaohui** – Electrocatalysis.
