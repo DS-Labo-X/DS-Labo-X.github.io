@@ -41,9 +41,7 @@ Research interests: AI, DFT.
 </div>
 
 ---
-## Postdoctoral Researchers
-
-- 
+ 
 ## PhD Students
 <div class="person-card">
   <img src="assets/people/zan.jpg" alt="ZAN Yifan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
