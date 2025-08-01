@@ -1,9 +1,9 @@
 # Our Team
 
 ## Principal Investigator
-**Dr. DS**  
+**Dr. WU Dongshuang**  
 Assistant Professor, NTU  
-Research interests: Catalysis, spectroscopy, and materials physics.
+Research interests: Catalysis, Advanced Characterisation, and Materials Chemistry.
 
 ---
 
