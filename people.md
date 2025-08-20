@@ -4,7 +4,7 @@
 **Dr. WU Dongshuang**  
 Assistant Professor, NTU  
 Research interests: Catalysis, Advanced Characterisation, and Materials Chemistry.  
-**Contact:** dongshuang.wu@ntu.edu.sg
+**Contact:** dongshuang.wu@ntu.edu.sg <br>
 
 ---
 ## DS Fellow
@@ -16,7 +16,7 @@ Research interests: AI, DFT.
 **Contact:** haobo.li@ntu.edu.sg  
 **Group Website:** https://haobo-li.com/
   
-  ---
+  ---<br>
 ## Postdoctoral Researchers
 <div class="person-card">
   <img src="assets/people/deng.jpg" alt="DENG Xiaohui" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
@@ -137,4 +137,4 @@ ZHAI Yiwei – UREAC Student (2025 Sep-)
 - PRAHARSH RYAN S/O SUBASH SOMAN-FYP student (2025 May batch)
 - CHAN HUNG SHEN-FYP student (2025 May batch)
 
-  
+Powered by GitHub Pages  
