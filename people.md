@@ -15,8 +15,8 @@ Nanyang Assistant Professor (NAP), NTU
 Research interests: AI, DFT.  
 **Contact:** haobo.li@ntu.edu.sg  
 **Group Website:** https://haobo-li.com/
-
----
+  
+  ---
 ## Postdoctoral Researchers
 <div class="person-card">
   <img src="assets/people/deng.jpg" alt="DENG Xiaohui" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
