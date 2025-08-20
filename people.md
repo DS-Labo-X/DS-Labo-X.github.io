@@ -11,7 +11,7 @@ Research interests: Catalysis, Advanced Characterisation, and Materials Chemistr
 <div class="person-card">
   <img src="assets/people/deng.jpg" alt="LI Haobo" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
 **Dr. LI Haobo**  
-Assistant Professor, NTU  
+Nanyang Assistant Professor (NAP), NTU  
 Research interests: AI, DFT.  
 **Contact:** haobo.li@ntu.edu.sg  
 **Group Website:** https://haobo-li.com/
@@ -113,6 +113,29 @@ Research interests: AI, DFT.
 </div>
 
 ---
+## Master, FYP, UREAC Students
+ZHAI Yiwei – UREAC Student (2025 Sep-)
+
 
 ## Alumni
-- Name – Position/Next step.
+- HUANG Shaodao – CSC visiting student from Jiangnan Uni.(2023 Jan-2024 Jan) – Current position: Wenzhou Uni. Lecturer.
+- HAN Zengyu – CSC visiting student from Xian Jiaotong Uni.(2022 Dec-2025 May) – Current position: Final Year PhD student
+- SHi Naike – CSC visiting scholar from University of Science and Technology Beijing (2024 May-2025 May) – Current position: Associate Professor
+- ZHANG Jian – CSC visiting scholar from Wuhan University of Technology(2023 Feb-2024 Feb) – Current position: Full Professor
+- FAN Xinhang – Master by Engineering (2023 Jan-2025 Jan) – Current position: Industry
+- Tian Jiayu – Master by coursework (2023 May-2024 May) – Current position: PhD Harbin Institute of Technology
+- FU Haoyang – postdoc(2023 Jan-2024 Jan) – Current position: postdoc at NTU
+- NI Chuyi – postdoc(2024 Oct-2025 Jan) – Current position: Industry
+- WANG Liwen – postdoc(2022 Oct-2023 Oct) – Current position: postdoc at Nanjiang Uni.
+- 
+- WANG Tzu-Wei -UREAC Student (2024 Jan-2025 Jan)
+- YU Ziying-UREAC Student (2023 Jan-2024 Jan)
+- 
+- DESMOND TOH HONG YAO-FYP student (2023 May batch)
+- SOO YAN-FYP student (2023 May batch)
+- JAVINE CHAN-FYP student (2024 May batch)
+- FIRDAUS BIN MOHAMAD SHAHRIN-FYP student (2025 May batch)
+- PRAHARSH RYAN S/O SUBASH SOMAN-FYP student (2025 May batch)
+- CHAN HUNG SHEN-FYP student (2025 May batch)
+
+  
