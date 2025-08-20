@@ -7,7 +7,7 @@ Research interests: Catalysis, Advanced Characterisation, and Materials Chemistr
 **Contact:** dongshuang.wu@ntu.edu.sg <br>
 
 ---
-## DS Fellow
+## DS Fellow<br>
 <div class="person-card">
   <img src="assets/people/deng.jpg" alt="LI Haobo" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
 **Dr. LI Haobo**  
@@ -17,7 +17,7 @@ Research interests: AI, DFT.
 **Group Website:** https://haobo-li.com/
   
   ---<br>
-## Postdoctoral Researchers
+## Postdoctoral Researchers<br>
 <div class="person-card">
   <img src="assets/people/deng.jpg" alt="DENG Xiaohui" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
   <strong>Dr. DENG Xiaohui</strong><br>
@@ -41,7 +41,7 @@ Research interests: AI, DFT.
 
 ---
  
-## PhD Students
+## PhD Students<br>
 <div class="person-card">
   <img src="assets/people/zan.jpg" alt="WANG Yuanyuan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
   <strong>WANG Yuanyuan (Aug 2022-)</strong><br>
@@ -113,28 +113,28 @@ Research interests: AI, DFT.
 </div>
 
 ---
-## Master, FYP, UREAC Students
-ZHAI Yiwei – UREAC Student (2025 Sep-)
+## Master, FYP, UREAC Students<br>
+ZHAI Yiwei – UREAC Student (2025 Sep-)<br>
 
-## Alumni
-- HUANG Shaodao – CSC visiting student from Jiangnan Uni.(2023 Jan-2024 Jan) – Current position: Wenzhou Uni. Lecturer.
-- HAN Zengyu – CSC visiting student from Xian Jiaotong Uni.(2022 Dec-2025 May) – Current position: Final Year PhD student
-- SHi Naike – CSC visiting scholar from University of Science and Technology Beijing (2024 May-2025 May) – Current position: Associate Professor
-- ZHANG Jian – CSC visiting scholar from Wuhan University of Technology(2023 Feb-2024 Feb) – Current position: Full Professor
-- FAN Xinhang – Master by Engineering (2023 Jan-2025 Jan) – Current position: Industry
-- Tian Jiayu – Master by coursework (2023 May-2024 May) – Current position: PhD Harbin Institute of Technology
-- FU Haoyang – postdoc(2023 Jan-2024 Jan) – Current position: postdoc at NTU
-- NI Chuyi – postdoc(2024 Oct-2025 Jan) – Current position: Industry
-- WANG Liwen – postdoc(2022 Oct-2023 Oct) – Current position: postdoc at Nanjiang Uni.
+## Alumni<br>
+- HUANG Shaodao – CSC visiting student from Jiangnan Uni.(2023 Jan-2024 Jan) – Current position: Wenzhou Uni. Lecturer.<br>
+- HAN Zengyu – CSC visiting student from Xian Jiaotong Uni.(2022 Dec-2025 May) – Current position: Final Year PhD student<br>
+- SHi Naike – CSC visiting scholar from University of Science and Technology Beijing (2024 May-2025 May) – Current position: Associate Professor<br>
+- ZHANG Jian – CSC visiting scholar from Wuhan University of Technology(2023 Feb-2024 Feb) – Current position: Full Professor<br>
+- FAN Xinhang – Master by Engineering (2023 Jan-2025 Jan) – Current position: Industry<br>
+- Tian Jiayu – Master by coursework (2023 May-2024 May) – Current position: PhD Harbin Institute of Technology<br>
+- FU Haoyang – postdoc(2023 Jan-2024 Jan) – Current position: postdoc at NTU<br>
+- NI Chuyi – postdoc(2024 Oct-2025 Jan) – Current position: Industry<br>
+- WANG Liwen – postdoc(2022 Oct-2023 Oct) – Current position: postdoc at Nanjiang Uni.<br>
 - 
-- WANG Tzu-Wei -UREAC Student (2024 Jan-2025 Jan)
-- YU Ziying-UREAC Student (2023 Jan-2024 Jan)
+- WANG Tzu-Wei -UREAC Student (2024 Jan-2025 Jan)<br>
+- YU Ziying-UREAC Student (2023 Jan-2024 Jan)<br>
 - 
-- DESMOND TOH HONG YAO-FYP student (2023 May batch)
-- SOO YAN-FYP student (2023 May batch)
-- JAVINE CHAN-FYP student (2024 May batch)
-- FIRDAUS BIN MOHAMAD SHAHRIN-FYP student (2025 May batch)
-- PRAHARSH RYAN S/O SUBASH SOMAN-FYP student (2025 May batch)
-- CHAN HUNG SHEN-FYP student (2025 May batch)
+- DESMOND TOH HONG YAO-FYP student (2023 May batch)<br>
+- SOO YAN-FYP student (2023 May batch)<br>
+- JAVINE CHAN-FYP student (2024 May batch)<br>
+- FIRDAUS BIN MOHAMAD SHAHRIN-FYP student (2025 May batch)<br>
+- PRAHARSH RYAN S/O SUBASH SOMAN-FYP student (2025 May batch)<br>
+- CHAN HUNG SHEN-FYP student (2025 May batch)<br>
 
 Powered by GitHub Pages  
