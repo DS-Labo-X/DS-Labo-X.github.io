@@ -116,7 +116,6 @@ Research interests: AI, DFT.
 ## Master, FYP, UREAC Students
 ZHAI Yiwei – UREAC Student (2025 Sep-)
 
-
 ## Alumni
 - HUANG Shaodao – CSC visiting student from Jiangnan Uni.(2023 Jan-2024 Jan) – Current position: Wenzhou Uni. Lecturer.
 - HAN Zengyu – CSC visiting student from Xian Jiaotong Uni.(2022 Dec-2025 May) – Current position: Final Year PhD student
