@@ -10,7 +10,7 @@ Research interests: Catalysis, Advanced Characterisation, and Materials Chemistr
 ## DS Fellow<br>
 <div class="person-card">
   <img src="assets/people/deng.jpg" alt="LI Haobo" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
-**Dr. LI Haobo**  
+** <strong>Dr. LI Haobo</strong><br>**  
 Nanyang Assistant Professor (NAP), NTU  
 Research interests: AI, DFT.  
 **Contact:** haobo.li@ntu.edu.sg  
