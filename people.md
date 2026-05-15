@@ -39,6 +39,26 @@ Research interests: AI, DFT.
   <em>yifan.zan@ntu.edu.sg</em>
 </div>
 
+<div class="person-card">
+  <img src="assets/people/gu.jpg" alt="SUN Junchuan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>Dr. SUN Junchuan</strong><br>
+  Thermal Catalysis and Modelling<br>
+  <em>junchuan.sun@ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <img src="assets/people/gu.jpg" alt="SEO Minsik" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>Dr. SEO Minsik</strong><br>
+  OPerando SPectroscopy<br>
+  <em>minsik.seo@ntu.edu.sg</em>
+</div>
+
+<div class="person-card">
+  <img src="assets/people/gu.jpg" alt="SUN Junchuan" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
+  <strong>Dr. LIANG Shuyu</strong><br>
+  Electrocatalysis and Biomass Conversion <br>
+  <em>liangshuyu1996@gmail.com</em>
+</div>
 ---
  
 ## PhD Students<br>
