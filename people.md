@@ -2,7 +2,7 @@
 <div class="person-card">
   <img src="assets/people/deng.jpg" alt="WU Dongshuang" width="160" style="border-radius: 50%; border: 1px solid #ccc;"><br>
 **<strong>Dr. WU Dongshuang</strong><br>**  
-Assistant Professor, NTU  
+Nanyang Assistant Professor (NAP), NTU  
 Research interests: Catalysis, Advanced Characterisation, and Materials Chemistry.  
 **Contact:** dongshuang.wu@ntu.edu.sg <br>
 
